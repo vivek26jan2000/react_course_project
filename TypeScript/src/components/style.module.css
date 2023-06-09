@@ -1,0 +1,29 @@
+.container {
+  width: 400px;
+  height: 400px;
+  margin-top: 20px;
+  margin: auto;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.form input {
+  margin-bottom: 15px;
+}
+
+.form button {
+  margin-top: 10px;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+.list li {
+  margin-right: 10px;
+}
